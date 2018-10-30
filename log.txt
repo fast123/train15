@@ -1,0 +1,60 @@
+Host: train15.dev-ravidok.ru
+Date: 2018-10-21 15:06:42
+Module: 
+array (
+  'name' => '76cc17cd2205854d573bf478eb27e9b0.jpg',
+  'size' => 22234,
+  'tmp_name' => '/var/www/train15.dev-ravidok.ru/web/public/upload/test/76cc17cd2205854d573bf478eb27e9b0.jpg',
+  'type' => 'image/jpeg',
+)
+    CWatermark::ImageUpdate < call_user_func_array < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CIBlockElement::Update
+	/var/www/clients/client34/web123/web/public/bitrix/modules/main/classes/general/module.php:475
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/general/iblockelement.php:4614
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/mysql/iblockelement.php:1289
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/admin/iblock_element_edit.php:1033
+----------
+Host: train15.dev-ravidok.ru
+Date: 2018-10-21 15:15:12
+Module: 
+array (
+  'name' => 'b79cacbfa9192f1a2267c3348bf09854.jpg',
+  'size' => 22234,
+  'tmp_name' => '/var/www/train15.dev-ravidok.ru/web/public/upload/test/b79cacbfa9192f1a2267c3348bf09854.jpg',
+  'type' => 'image/jpeg',
+)
+    CWatermark::ImageUpdate < call_user_func_array < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CIBlockElement::Update
+	/var/www/clients/client34/web123/web/public/bitrix/modules/main/classes/general/module.php:475
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/general/iblockelement.php:4614
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/mysql/iblockelement.php:1289
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/admin/iblock_element_edit.php:1033
+----------
+Host: train15.dev-ravidok.ru
+Date: 2018-10-21 15:15:37
+Module: 
+array (
+  'name' => '359e6d39254e349ab855785d9f5f4ca5.jpg',
+  'size' => 22234,
+  'tmp_name' => '/var/www/train15.dev-ravidok.ru/web/public/upload/test/359e6d39254e349ab855785d9f5f4ca5.jpg',
+  'type' => 'image/jpeg',
+)
+    CWatermark::ImageUpdate < call_user_func_array < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CIBlockElement::Update
+	/var/www/clients/client34/web123/web/public/bitrix/modules/main/classes/general/module.php:475
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/general/iblockelement.php:4614
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/mysql/iblockelement.php:1289
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/admin/iblock_element_edit.php:1033
+----------
+Host: train15.dev-ravidok.ru
+Date: 2018-10-21 15:19:01
+Module: 
+array (
+  'name' => '4b72258f1f8e6f298eac339cbc8bf46e.jpg',
+  'size' => 22234,
+  'tmp_name' => '/var/www/train15.dev-ravidok.ru/web/public/upload/test/4b72258f1f8e6f298eac339cbc8bf46e.jpg',
+  'type' => 'image/jpeg',
+)
+    CWatermark::ImageUpdate < call_user_func_array < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CIBlockElement::Update
+	/var/www/clients/client34/web123/web/public/bitrix/modules/main/classes/general/module.php:475
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/general/iblockelement.php:4614
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/classes/mysql/iblockelement.php:1289
+	/var/www/clients/client34/web123/web/public/bitrix/modules/iblock/admin/iblock_element_edit.php:1033
+----------
